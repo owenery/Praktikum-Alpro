@@ -16,7 +16,7 @@ int main(){
     printf("Masukan nilai N : ");
     scanf("%d",&N);
     if (N>0){
-            for (count=1; count <= N; count++){hgg
+            for (count=1; count <= N; count++){
             total += count;
         }
         printf("Jumlah dari deret tersebut adalah %d",total);
