@@ -1,4 +1,4 @@
-/*Nama File     : gayaSentr*/
+/*Nama File     : FrekNilTabel*/
 /*Deskripsi     : Mencari dan Menampilkan jumlah
  nilai dari array yang memiliki frekuensi kemunculan lebih dari satu kali*/
 /*Pembuat       : David Nugroho/2406012212*/
@@ -26,7 +26,6 @@ int main(){
     for (i=0;i<N;i++){
         if (Frek[tabel[i]] > 1) {
             result += tabel[i];
-            Frek[tabel[i]] = 0;
         }
     }
     printf("%d",result);
