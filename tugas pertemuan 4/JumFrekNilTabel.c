@@ -1,4 +1,4 @@
-/*Nama File     : FrekNilTabel*/
+/*Nama File     : JumFrekNilTabel*/
 /*Deskripsi     : Mencari dan Menampilkan jumlah
  nilai dari array yang memiliki frekuensi kemunculan lebih dari satu kali*/
 /*Pembuat       : David Nugroho/2406012212*/
